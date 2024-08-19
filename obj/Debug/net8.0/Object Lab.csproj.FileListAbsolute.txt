@@ -12,3 +12,4 @@ C:\Users\imper\source\repos\Object Lab\Object Lab\obj\Debug\net8.0\refint\Object
 C:\Users\imper\source\repos\Object Lab\Object Lab\obj\Debug\net8.0\Object Lab.pdb
 C:\Users\imper\source\repos\Object Lab\Object Lab\obj\Debug\net8.0\Object Lab.genruntimeconfig.cache
 C:\Users\imper\source\repos\Object Lab\Object Lab\obj\Debug\net8.0\ref\Object Lab.dll
+C:\Users\imper\source\repos\Object Lab\Object Lab\obj\Debug\net8.0\Object Lab.sourcelink.json
